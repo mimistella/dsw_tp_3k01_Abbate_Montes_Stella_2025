@@ -10,8 +10,8 @@
 
 ### Repositorios
 
-- frontend app
-- backend app
+- [frontend app]:(http://github.com/mimistella/Campamento-FE)
+- [backend app]: (http://github.com/ale-montes/Campamento-BE)
 
 ## Tema
 
@@ -23,7 +23,7 @@ Plataforma web que gestiona la experiencia de un campamento temático mitológic
 
 DIAGRAMA ENTIDAD-RELACIÓN (DER)
 
-![DER CAMPAMENTO MESTIZO](https://github.com/mimistella/dsw_tp_3k01_Abbate_Montes_Stella_2025/blob/main/assets/system_drawio.jpg?raw=true)
+![DER CAMPAMENTO MESTIZO](https://github.com/mimistella/dsw_tp_3k01_Abbate_Montes_Stella_2025/blob/main/assets/system_final_drawio.jpg?raw=true)
 
 ## Alcance Funcional
 
