@@ -10,8 +10,8 @@
 
 ### Repositorios
 
-- ![frontend app](http://github.com/mimistella/Campamento-FE)
-- ![backend app](http://github.com/ale-montes/Campamento-BE)
+- [frontend app](http://github.com/mimistella/Campamento-FE)
+- [backend app](http://github.com/ale-montes/Campamento-BE)
 
 ## Tema
 
